@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/outside-digital/static/css/main.f5e12b88.chunk.css",
+    "main.js": "/outside-digital/static/js/main.71f80067.chunk.js",
+    "main.js.map": "/outside-digital/static/js/main.71f80067.chunk.js.map",
+    "runtime-main.js": "/outside-digital/static/js/runtime-main.114d6bae.js",
+    "runtime-main.js.map": "/outside-digital/static/js/runtime-main.114d6bae.js.map",
+    "static/js/2.1fe17fc1.chunk.js": "/outside-digital/static/js/2.1fe17fc1.chunk.js",
+    "static/js/2.1fe17fc1.chunk.js.map": "/outside-digital/static/js/2.1fe17fc1.chunk.js.map",
+    "index.html": "/outside-digital/index.html",
+    "static/css/main.f5e12b88.chunk.css.map": "/outside-digital/static/css/main.f5e12b88.chunk.css.map",
+    "static/js/2.1fe17fc1.chunk.js.LICENSE.txt": "/outside-digital/static/js/2.1fe17fc1.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/outside-digital/static/media/LabGrotesque-Medium.03578f95.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.114d6bae.js",
+    "static/js/2.1fe17fc1.chunk.js",
+    "static/css/main.f5e12b88.chunk.css",
+    "static/js/main.71f80067.chunk.js"
+  ]
+}
